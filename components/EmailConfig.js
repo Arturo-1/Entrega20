@@ -4,7 +4,7 @@ import twilio from 'twilio'
 
 dotenv.config()
 
-const TEST_MAIL = "simon.daniel.meraz@gmail.com"
+const TEST_MAIL = "arturo.1231.f@gmail.com"
 const trasporter = createTransport ({
     service: "gmail",
     port: 587,

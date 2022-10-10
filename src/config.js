@@ -9,6 +9,6 @@ export default {
     },
 	database:{
         //dbUrl: process.env.DB_URL || 'mongodb://localhost:27017/coderhouse'
-        dbUrl: process.env.DB_URL || 'mongodb+srv://saymon:saymon123456@cluster0.pxiaw.mongodb.net/?retryWrites=true&w=majority'
+        dbUrl: process.env.DB_URL || 'mongodb+srv://arturo:arturo10@cluster0.soepf.mongodb.net/?retryWrites=true&w=majority'
     }
 }
